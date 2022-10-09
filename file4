@@ -1,3 +1,7 @@
 This is new line.
 This is New file.
+<<<<<<< Updated upstream
 New line.
+=======
+Another line.
+>>>>>>> Stashed changes
